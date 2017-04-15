@@ -34,15 +34,18 @@ public class Cokgen {
 		}
 	}
 	
-	public int cevreHesapla(){
-		
+	public int cevreHesapla(int a){
+		int sonuc=0;
 		for (int i =0;i<array.length;i++){
 			System.out.println("Beþli Array : " + i);
-		int sonuc=array[i]+sonuc;
+		sonuc=array[i]+sonuc;
+		
 		
 		
 		//System.out.println("Beþli Array : " + sonuc);
 
 	
 	}
+		return sonuc;
 	}
+}

@@ -9,7 +9,7 @@ otobus.oturanSayisi=100;
 otobus.yolcuMiktari=200;
 otobus.ayaktaSayisi=100;
 		
-hangiOtobustesin();
+
 
 	}
 
